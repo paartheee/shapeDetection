@@ -2,7 +2,7 @@
 import numpy as np
 import cv2
 
-#Using openCV too reading image
+#Using openCV to reading image
 img = cv2.imread("Input Image Path Here")
 
 #converting image into grayscale image
